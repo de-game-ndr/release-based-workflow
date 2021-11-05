@@ -9,7 +9,7 @@ Playable Version:
 http://cykod.github.com/AlienInvasion/
 
 Bit.ly link for mobile: 
-http://bit.ly/html5-invasion
+https://github.com/de-game-ndr/release-based-workflow/issues/3
 
 
 If you make an interesting fork or enhancement of the game, let me know and it'll get
